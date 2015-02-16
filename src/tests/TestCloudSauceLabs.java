@@ -1,7 +1,6 @@
 package tests;
 
 import static org.junit.Assert.assertTrue;
-
 import java.net.MalformedURLException;
 import java.net.URL;
 import org.openqa.selenium.WebDriver;
